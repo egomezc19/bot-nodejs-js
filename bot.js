@@ -46,5 +46,5 @@ bot.hashtag('programing', ctx =>{
     ctx.reply('hashtag!!');
 })
 
-
+//-----
 bot.launch();
